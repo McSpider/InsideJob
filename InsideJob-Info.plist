@@ -11,7 +11,7 @@
 	<key>CFBundleIconFile</key>
 	<string>InsideJob.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.mcspider.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.matthojo.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

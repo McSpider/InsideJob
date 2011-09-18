@@ -32,6 +32,8 @@ To alter the quantity or damage of a particular item, click on its inventory slo
 After changing your inventory you will need to save the currently open world using the World menu, or Command-S.  Once you have saved the world you can open it in Minecraft.  Note that if a world is opened in Minecraft while it is open in Inside Job, you will need to reload it using the World menu, or Command-R.  This is because Minecraft's file locking system gives write access to the last program to open it.
 
 ### Release Notes
+#### 1.0.9 - September 18, 2011
+- Added Minecraft 1.8 Items
 
 #### 1.0.8 - June 30, 2011
 
