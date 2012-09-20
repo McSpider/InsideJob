@@ -1,6 +1,6 @@
 ## Inside Job
 
-### A Minecraft Alpha Inventory Editor for Mac OS X
+### A Minecraft Inventory Editor for Mac OS X
 
 ![Inside Job Screenshot](http://mcspider.oc.tc/files/Inside%20Job.png)
 
